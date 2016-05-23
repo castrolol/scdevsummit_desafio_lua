@@ -1,18 +1,24 @@
+# Desafio em Lua
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+Regulamento do teste
+--------------------
+
+Escreva um teste que: verifique se há café, se não houver, preencha com café ou se há café, beba seu café.
+Após escrever o teste, implementar o código igual na imagem: 
+
+Rodar o teste que deve seguir o ciclo do TDD com um commit para cada etapa do cliclo (red, green, refactor)  
+O teste deve verificar as unidades, ou seja, para cada possível resultado deve existir um teste. 
+
+Deve haver 100% de cobertura.
+
+Como mandar seu teste
+---------------------
+
+Fork do projeto, crie uma pasta com seu nome (como no cracha), ex: '~/sergio_siqueira/' contendo seu código. 
+Após tudo pronto abra um PR.
 
 
-Hi there! Welcome to Cloud9 IDE!
+Ferramentas
+-----------
 
-To get you started, create some files, play with the terminal,
-or visit http://docs.c9.io for our documentation.
-If you want, you can also go watch some training videos at
-http://www.youtube.com/user/c9ide.
-
-Happy coding!
-The Cloud9 IDE team
+O teste deve usar uma biblioteca da familia Unit (Ex: PHPUnit, Mocha/Chai)
