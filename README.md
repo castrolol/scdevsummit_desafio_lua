@@ -1,4 +1,5 @@
 # Desafio em Lua
+[![Build Status](https://travis-ci.org/castrolol/scdevsummit_desafio_lua.svg?branch=master)](https://travis-ci.org/castrolol/scdevsummit_desafio_lua)
 
 Regulamento do teste
 --------------------
